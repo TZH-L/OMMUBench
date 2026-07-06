@@ -45,6 +45,7 @@ OMMUBench is constructed from multiple datasets. Open-access datasets can be obt
 - [Caries detection](https://universe.roboflow.com/jj-zi0hr/caries-l2wej)
 - [Mouth and oral diseases](https://www.kaggle.com/datasets/javedrashid/mouth-and-oral-diseases-mod)
 Restricted-access datasets are available upon request at tzhdent@163.com.
+
 Evaluation consists of three stages:
 - Closed-ended VQA evaluation (accuracy)
 - Open-ended VQA evaluation (Likert scoring)
