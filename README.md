@@ -40,13 +40,10 @@ OPENAI_API_BASE=
 ---
 
 ### 3. Run Evaluation
-OMMUBench is constructed from multiple datasets. Open-access datasets can be obtained from the following links:
-- [Instance_seg_teeth](https://github.com/devichand579/Instance_seg_teeth)
-- [Caries detection](https://universe.roboflow.com/jj-zi0hr/caries-l2wej)
-- [Mouth and oral diseases](https://www.kaggle.com/datasets/javedrashid/mouth-and-oral-diseases-mod)
-Restricted-access datasets are available upon request at tzhdent@163.com.
+OMMUBench is constructed from multiple datasets. Open-access datasets can be obtained from the following links: [Instance_seg_teeth](https://github.com/devichand579/Instance_seg_teeth), [Caries detection](https://universe.roboflow.com/jj-zi0hr/caries-l2wej), and [Mouth and oral diseases](https://www.kaggle.com/datasets/javedrashid/mouth-and-oral-diseases-mod). Restricted-access datasets are available upon request at tzhdent@163.com.
 
 Evaluation consists of three stages:
+
 - Closed-ended VQA evaluation (accuracy)
 - Open-ended VQA evaluation (Likert scoring)
 - Lesion localization evaluation (IoU)
